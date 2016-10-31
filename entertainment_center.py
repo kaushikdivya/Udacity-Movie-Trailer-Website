@@ -2,6 +2,8 @@
 from media import Movie
 # Importing fresh_tomatoes module
 import fresh_tomatoes
+
+
 # Initializing list variable
 movie_objects = []
 
