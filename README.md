@@ -9,7 +9,7 @@
 * Install
   * favorite_movie_list.txt - Contains list of Movies which will be displayed in the web page. To add your own movies, follow below syntax.
     * `MOVIE_NAME,MOVIE_STORYLINE,MOVIE_POSTER,MOVIE_TRAILER,MOVIE_RELEASE_DATE`
-  * NOTE - Each parameter should be comma separated.
+    * NOTE - Each parameter should be comma separated.
   
   * All files (favorite_movie_list.txt, media.py, entertainment_center.py and freah_tomatoes.py) should be in same folder.
   
