@@ -15,3 +15,6 @@
   
 * Run
   * `python entertainment.py`
+
+* Licence
+  * [MIT Licence](https://github.com/kaushikdivya/Udacity-Movie-Trailer-Website/blob/master/LICENSE)
