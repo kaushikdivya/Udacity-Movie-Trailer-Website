@@ -11,10 +11,10 @@
     * `MOVIE_NAME,MOVIE_STORYLINE,MOVIE_POSTER,MOVIE_TRAILER,MOVIE_RELEASE_DATE`
     * NOTE - Each parameter should be comma separated.
   
-  * All files (favorite_movie_list.txt, media.py, entertainment_center.py and freah_tomatoes.py) should be in same folder.
+  * All files (favorite_movie_list.txt, media.py, entertainment_center.py and fresh_tomatoes.py) should be in same folder.
   
 * Run
-  * `python entertainment.py`
+  * `python entertainment_center.py`
 
 * Licence
   * [MIT Licence](https://github.com/kaushikdivya/Udacity-Movie-Trailer-Website/blob/master/LICENSE)
